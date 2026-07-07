@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "host.bolt.finance_dashboard_ap_s3dh.twa",
+        "sha256_cert_fingerprints": ["04:54:5D:F2:F2:91:EF:D3:8C:86:64:E2:5E:77:D5:9B:46:D4:BB:EF:01:6E:1D:1F:E4:F4:1E:B4:F0:92:A3:06"]
+      }
+    }]
